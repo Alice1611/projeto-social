@@ -35,3 +35,11 @@ section#telefone {
     height: 627px;
     width: 311px;
 }
+
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 264px;
+    height: 468px;
+}
